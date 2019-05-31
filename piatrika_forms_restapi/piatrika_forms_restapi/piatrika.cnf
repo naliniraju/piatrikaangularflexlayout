@@ -1,0 +1,6 @@
+[client]
+database = Piatrika_core
+host = localhost
+user = piatrika_db
+password = biosystems
+default-character-set = utf8
